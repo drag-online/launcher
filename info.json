@@ -1,0 +1,20 @@
+{
+  "gameName": "DRAG CRMP",
+  "userService": "",
+  "cdn": "https://rdmr-cdn.samp-dl.com/game",
+  "librariesVersion": 1,
+  "servers": [
+    {
+      "id": 1,
+      "name": "SERVER 1",
+      "ip": "185.169.134.139",
+      "port": 7777
+    },
+     {
+      "id": 2,
+      "name": "SERVER 2",
+      "ip": "185.169.2.139",
+      "port": 7777
+    }
+  ]
+}
